@@ -9,7 +9,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -30,4 +29,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.good {
+  background-color: #282c34;
+  color: #61dafb;
+}
+
+.bad {
+  background-color: #61dafb;
+  color: #282c34;
+}
+
+.btn {
+  border: none;
+  padding: 1em 2em;
+  font-size: 1em;
 }
