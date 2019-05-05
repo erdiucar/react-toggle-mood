@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-toggle-mood/static/css/main.bdab3d78.chunk.css",
+    "main.js": "/react-toggle-mood/static/js/main.b7b09756.chunk.js",
+    "main.js.map": "/react-toggle-mood/static/js/main.b7b09756.chunk.js.map",
+    "runtime~main.js": "/react-toggle-mood/static/js/runtime~main.1d2014a7.js",
+    "runtime~main.js.map": "/react-toggle-mood/static/js/runtime~main.1d2014a7.js.map",
+    "static/js/2.b7f52e28.chunk.js": "/react-toggle-mood/static/js/2.b7f52e28.chunk.js",
+    "static/js/2.b7f52e28.chunk.js.map": "/react-toggle-mood/static/js/2.b7f52e28.chunk.js.map",
+    "index.html": "/react-toggle-mood/index.html",
+    "precache-manifest.6fd2b2d1aa62d4c20c58794a89f1d6b5.js": "/react-toggle-mood/precache-manifest.6fd2b2d1aa62d4c20c58794a89f1d6b5.js",
+    "service-worker.js": "/react-toggle-mood/service-worker.js",
+    "static/css/main.bdab3d78.chunk.css.map": "/react-toggle-mood/static/css/main.bdab3d78.chunk.css.map",
+    "static/media/logo-bad.svg": "/react-toggle-mood/static/media/logo-bad.5d5d9eef.svg",
+    "static/media/logo-good.svg": "/react-toggle-mood/static/media/logo-good.d762553a.svg"
+  }
+}
